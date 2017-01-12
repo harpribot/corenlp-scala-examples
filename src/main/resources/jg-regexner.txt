@@ -1,0 +1,3 @@
+Bachelor of (Arts|Laws|Science|Engineering|Divinity|Technology)	DEGREE
+Lalor	LOCATION	PERSON
+Labor	ORGANIZATION
