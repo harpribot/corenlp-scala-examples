@@ -13,6 +13,6 @@ Stanford CoreNLP examples in Scala
 - Coreference Resolution
 - Entity Mentions
 - Sentiment Extraction
-- Relationship Extraction (training from scratch on new data)
+- Relationship Extraction (training from scratch on CoNLL 04 Corpus - Takes 15 minutes to train)
 - Custom Annotator
 
